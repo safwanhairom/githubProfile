@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- ⚡ Fun fact: Im new in developer field
+- 🌱 I’m currently learning on Js
+- 👯 I’m looking for a mentorship 
+- 📫 How to reach me: ig: _wandc
