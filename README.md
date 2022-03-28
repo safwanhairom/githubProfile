@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-- ⚡ Fun fact: Im new in developer field
-- 🌱 I’m currently learning on Js
-- 👯 I’m looking for a mentorship 
-- 📫 How to reach me: ig: _wandc
+- ⚡ Influencer: First and foremost, I love technology. Ever since I was a little kid I always ponder how to create something that can help people with anything they need. It continues until I found a bachelor program that related to what I always ponder since a little kid.
+
+Alhamdulilah, now I am a degree holder In Bachelor of Software Engineering from University Kuala Lumpur, Malaysian Institute of Information Technology. It is time for me to pursue my dreams to help people based on my skillset and what had learned during my bachelor program
+- 🌱 I’m currently will be automation tester
+- 👯 I’m looking for a team to build up strong team togather
+- 📫 How to reach me: linkedIn: www.linkedin.com/in/safwanhairom
